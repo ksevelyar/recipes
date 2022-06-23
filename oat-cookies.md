@@ -2,13 +2,13 @@
 
 * porridge oats 75g
 * peanut 35g
-* sweetener 10g
-* milk 40g
+* sweetener 20g
+* milk 50g
 * egg 1
+* cocoa 30g
+* baking powder 4g
 * a pinch of salt
-* cocoa 15g
-* baking powder 3g
 
 # Stage 1
 
-* bake in a 180C oven for 20 minutes
+* bake in a 180C oven for 30 minutes
