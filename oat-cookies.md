@@ -1,10 +1,10 @@
 # Oat cookies
 
 * porridge oats 75g
-* peanut 35g
+* roasted peanut 35g
 * sweetener 20g
 * milk 50g
-* egg 1
+* 2 eggs
 * cocoa 30g
 * baking powder 4g
 * a pinch of salt
