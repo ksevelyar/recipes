@@ -2,7 +2,7 @@
 
 * porridge oats 75g
 * roasted peanut 35g
-* sweetener 20g
+* sweetener 15g
 * milk 50g
 * 2 eggs
 * cocoa 30g
