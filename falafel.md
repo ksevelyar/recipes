@@ -1,7 +1,7 @@
 # Falafel
 
-* chickpea 200g
-* onion 1
+* chickpea 300g
+* onion 2
 * cumin 10g
 * parsley 5г
 * душистый перец 5г
