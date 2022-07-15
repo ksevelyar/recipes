@@ -6,7 +6,7 @@
 * baking powder 5g
 * a pinch of salt
 * cinnamon 5g
-* ginger 10g
+* ginger 5g
 * cardamom 5g
 * coconut oil 10g
 * 1 egg
