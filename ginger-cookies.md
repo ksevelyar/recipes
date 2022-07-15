@@ -15,4 +15,4 @@
 
 * ground oats to floor in a blender
 * add other ingredients and mix them
-* bake in a 180C oven for 30 minutes
+* bake in a 180C oven for 18 minutes
