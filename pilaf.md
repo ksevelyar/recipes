@@ -8,9 +8,9 @@
 * khmeli suneli 10g
 * oil 40g
 
-* rice 300g
-* water 500g
-* grilled chicken 300g
+* rice 500g
+* water 750g
+* grilled chicken 400g
 
 # stage 1
 
@@ -19,5 +19,5 @@
 # stage 2
 
 * mix onion, carrot, oil and the spices in a blender
-* add rice, water and the spicey souce to a non-stick pan and cook for 25 min on small heat
+* add rice, water and the spicey souce to a non-stick pan and cook for 35 min on small heat
 * slice grilled chicken and mix with rice
