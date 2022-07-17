@@ -4,7 +4,7 @@
 * carrot 2
 * salt 10г
 * cumin 5g
-* barberry 10g
+* barberry 5g
 * khmeli suneli 10g
 * oil 40g
 
