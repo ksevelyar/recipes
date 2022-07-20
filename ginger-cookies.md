@@ -4,12 +4,13 @@
 * sweetener 10g
 * erythritol 10g
 * baking powder 5g
-* a pinch of salt
 * cinnamon 5g
 * ginger 5g
 * cardamom 5g
 * coconut oil 10g
-* 1 egg
+* 2 eggs
+* milk 30g
+* salt 0.5g
 
 # Stage 1
 
