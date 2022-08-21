@@ -1,9 +1,9 @@
 # Dough
 
-* wheat floor 500g
+* wheat floor 600g
 * olive oil 30g
 * salt 3g
-* water 250g
+* water 300g
 * instant dry yeast 10g
 * sugar 5g
 
