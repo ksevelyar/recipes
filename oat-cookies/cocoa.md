@@ -1,10 +1,11 @@
-# Oat cookies
+# Cocoa cookies
 
-* porridge oats 75g
+* porridge oats 150g
+* 1 banana
 * roasted peanut 35g
-* sweetener 10g
-* erythritol 10g
-* cocoa 30g
+* sweetener 20g
+* erythritol 20g
+* cocoa 50g
 * baking powder 5g
 * salt 0.5g
 * milk 30g

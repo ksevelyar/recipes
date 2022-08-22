@@ -1,16 +1,16 @@
 # Ginger cookies
 
-* porridge oats 75g
-* sweetener 10g
-* erythritol 10g
+* porridge oats 150g
+* sweetener 20g
+* erythritol 20g
 * baking powder 5g
 * cinnamon 5g
 * ginger 5g
 * cardamom 5g
 * coconut oil 10g
+* salt 0.5g
 * 2 eggs
 * milk 30g
-* salt 0.5g
 
 # Stage 1
 
