@@ -1,21 +1,21 @@
 # Falafel
 
-* chickpea 300g
-* onion 3
+* dried chickpeas 200g
+* fresh parsley 5г
+* onion 4
+* garlic 1
 * cumin 10g
-* parsley 5г
-* душистый перец 5г
-* соль 3г
-* растительное масло 30г
-* кунжут 30г
-* лимонный сок 5г
+* coriander 5g
+* baking powder 3g
+* salt 3г
+* oil 30г
+* sesame seeds 30г
 
 ## Stage 1
-* замочить нут на ночь
-* нарезать лук кольцами и обжарить на двустороннем гриле 3m
+* soak chickpeas for 12h
+* cut the onion into rings and fry in a pan with sesame seeds
 
 ## Stage 2
-* измельчить масло, специи и лук в блендере
-* слить воду с нута, перемесить в блендере
-* сформировать котлеты на силиконовый коврик
-* запекать 20 минут на 200C
+* mix all components in blender
+* put the balls on the silicone mat
+* bake for 20 minutes at 200C
