@@ -1,5 +1,7 @@
 # Apple Pie
 
+![Apple Pie](./photo.jpg)
+
 * 1kg of Granny Smith apples
 * sweetener 50g
 * erythritol 50g
