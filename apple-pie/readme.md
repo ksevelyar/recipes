@@ -9,16 +9,16 @@
 * baking powder 5g
 * vanilla extract 5g
 * flour 200g
-* 4 eggs
+* 6 eggs
 
 # Stage 1
 
 * blend egg whites with erythritol
 * blend yolks with sweetener and vanilla extract
-* mix together and add flour, salt, baking poweder
+* mix together and add flour, salt, baking powder
 
 # Stage 2
 
-* cut apples to 4mm slices and put to a baking form
-* add dough
+* cut apples to 3mm slices and put to a baking form
+* add dough and mix everything with a spoon
 * bake in a 180C oven for 35 minutes
