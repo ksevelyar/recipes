@@ -1,4 +1,4 @@
-# Tuna Salad
+# Salads / Tuna
 
 * canned tuna 180g
 * 4 eggs
