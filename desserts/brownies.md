@@ -2,7 +2,7 @@
 
 * butter 145g
 * sugar 250g
-* cocoa 80g
+* alcalized cocoa 80g
 * 0.5g salt
 * vanilla powder 5g
 * 2 eggs

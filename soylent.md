@@ -1,7 +1,7 @@
 # Soylent
 
 * whey protein 30g
-* cocoa powder 10g
+* alkalized cocoa powder 10g
 * powdered milk 10g
 * half a banana
 * water 250ml

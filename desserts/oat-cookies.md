@@ -4,7 +4,7 @@
 * roasted peanut 20g
 * sweetener 20g
 * erythritol 20g
-* cocoa 40g
+* alcalized cocoa 40g
 * baking powder 5g
 * salt 0.5g
 
