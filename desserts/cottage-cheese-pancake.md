@@ -1,13 +1,15 @@
 # Cottage cheese pancake
 
-* творог 2% 360г
+* cottage cheese 2% 360г
 * egg 1
-* мука 120г
-* соль щепотка
-* банан
-* ванилин
+* flour 120г
+* banana
+* baking powder 4g
+* vanilla extract 0.5g
+* salt 0.5g
 
 ## Stage 1
 
-* перемесить в блендере
-* запекать на 180C 35 минут
+* mix all components in blender
+* put the balls on the silicone mat
+* bake for 30 minutes at 180C
