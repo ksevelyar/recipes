@@ -1,9 +1,8 @@
-# Salads / Chicken Caesar
+# Chicken Caesar
 
-* grilled chicken breasts 500g
-* romaine lettuce 200g
-* parmesan 30g
-* mayonnaise 30g
-* olive oil 10g
+* grilled chicken breasts 150g
+* romaine lettuce 50g
+* parmesan 20g
+* mayonnaise 20g
 * 1 garlic clove
-* crusty white bread 100g
+* crusty white bread 30g
