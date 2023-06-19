@@ -1,12 +1,12 @@
 # Cottage cheese pancake
 
 * cottage cheese 2% 360г
-* egg 1
-* flour 120г
-* banana
+* 2 eggs
+* flour 100г
 * baking powder 4g
 * vanilla extract 0.5g
 * salt 0.5g
+* sweetener 15g
 
 ## Stage 1
 
