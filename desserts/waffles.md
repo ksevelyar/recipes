@@ -1,8 +1,8 @@
 # Waffles
-* porridge oats 50g
-* whey protein 80g
+* porridge oats 100g
+* whey protein 100g
 * nuts 20g
-* egg whites 120g
+* egg whites 250g
 
 # Stage 1
 * mix in blender
