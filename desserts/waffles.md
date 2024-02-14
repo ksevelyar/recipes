@@ -1,8 +1,8 @@
 # Waffles
-* porridge oats 140g
-* whey protein 70g
+* porridge oats 120g
+* whey protein 50g
 * nuts 30g
-* egg whites 280g
+* egg whites 330g
 * sweetener 10g
 
 # Stage 1
