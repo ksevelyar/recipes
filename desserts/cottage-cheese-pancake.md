@@ -3,7 +3,7 @@
 * cottage cheese 2% 360г
 * 2 eggs
 * flour 100г
-* baking powder 4g
+* baking powder 3g
 * vanilla extract 0.5g
 * salt 0.5g
 * sweetener 15g
