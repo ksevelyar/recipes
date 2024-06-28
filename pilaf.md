@@ -1,23 +1,25 @@
 # Pilaf
 
-* onion 3
-* carrot 2
-* salt 10г
+* onion 200g
+* carrot 200g
+* salt 4g
 * cumin 5g
 * barberry 5g
-* khmeli suneli 10g
-* oil 40g
+* khmeli suneli 3g
+* oil 15g
 
-* rice 500g
-* water 750g
-* grilled chicken 400g
+* rice 130g
+* water 200g
+* baked chicken 200g
 
 # stage 1
-
-* cut onion and carrot into cubes, caramelize them in a pan
+* bake chicken
+* caramelize onion and carrot in the oven
 
 # stage 2
+* cook rice with salt and water for 10 minutes
 
+# stage 3
 * mix onion, carrot, oil and the spices in a blender
-* add rice, water and the spicey souce to a non-stick pan and cook for 35 min on small heat
-* slice grilled chicken and mix with rice
+* add the souce and chicken to a non-stick pan and cook for 3 min
+* add rice and cook another 3 min
