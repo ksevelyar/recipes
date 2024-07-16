@@ -12,4 +12,4 @@
 
 * mix all components in blender
 * put the balls on the silicone mat
-* bake for 35 minutes at 200C
+* bake for 30 minutes at 190C
