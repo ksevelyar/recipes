@@ -5,12 +5,11 @@
 * salt 4g
 * cumin 5g
 * barberry 5g
-* khmeli suneli 3g
 * oil 15g
 
-* rice 130g
-* water 200g
-* baked chicken 200g
+* rice 300g
+* water 600g
+* baked chicken 400g
 
 # stage 1
 * bake chicken
@@ -21,5 +20,5 @@
 
 # stage 3
 * mix onion, carrot, oil and the spices in a blender
-* add the souce and chicken to a non-stick pan and cook for 3 min
-* add rice and cook another 3 min
+* add the souce and chicken to a non-stick pan and cook for 5 min
+* add rice and cook another 5 min
