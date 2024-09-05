@@ -1,11 +1,10 @@
 # Oat cookies
-
-* porridge oats floor 100g
-* raisin 15g
+* porridge oats flour 200g
+* flour 100g
+* coco oil 30g
 * sweetener 10g
 * erythritol 40g
-* alcalized cocoa 20g
-* baking powder 3g
+* baking powder 4g
 * salt 0.4g
 * 2 eggs
 
