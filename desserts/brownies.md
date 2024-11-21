@@ -1,22 +1,14 @@
 # Brownies
-
-* butter 145g
-* sugar 250g
-* alcalized cocoa 80g
+* coco oil 20g
+* hot water 20g
+* milk 20g
+* allulose 20g
+* alcalized cocoa 20g
+* protein 20g
+* baking powder 2g
 * 0.5g salt
-* vanilla powder 5g
-* 2 eggs
-* flour 65g
-* walnuts 75g
+* flour 10g
 
 # Stage 1
-* double-boil and mix butter, sugar, cocoa and salt untill butter melt
-
-# Stage 2
-* mix eggs with vanilla powder, slowly add flour, mix with the stage 1 mix
-* add walnuts
-
-# Stage 3
-* add the mix to a square form
-* bake in a 175C oven for 20 minutes
+* bake 10 minutes, 180C
 
