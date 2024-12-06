@@ -1,10 +1,10 @@
-* oats 40g
+* oats 30g
 * cocoa 15g
 * casein 10g
 * peanut protein 10g
 * salt
 
-* water 90g
+* water 150g
 * greek yogurt 2% 250g
 
 * banana 50g

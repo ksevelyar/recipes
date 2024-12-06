@@ -3,7 +3,7 @@
 * onion 400g
 * carrot 400g
 * celery 100g
-* garlic 20g
+* garlic 30g
 * tomato paste 200g
 
 * olive oil 10g

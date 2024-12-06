@@ -1,6 +1,7 @@
 # Oat cookies
-* porridge oats flour 200g
-* flour 100g
+* porridge oats flour 100g
+* protein 20g
+* flour 20g
 * coco oil 30g
 * sweetener 10g
 * erythritol 40g

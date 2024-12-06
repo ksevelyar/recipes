@@ -1,8 +1,10 @@
-* flour 200g
-* erythritol 50g
-* allulose 50g
+* flour 70g
+* coco flour 30g
+* protein 20g
+* erythritol 25g
+* allulose 25g
 * baking powder 5g
-* 4 eggs
+* 3 eggs
 * salt 1g
 * vanilla extract
 

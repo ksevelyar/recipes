@@ -1,10 +1,12 @@
 # Olivier salad
 
-* grilled chicken breasts 300g
+* grilled chicken breasts 400g
 * potato 400g
 * 6 eggs
-* 1 fresh cucumber
-* 1 sweet onion
+* cucumber 300g
+* onion 100g
 * apple 100g
-* canned peas 200g
-* mayo 30g
+* frozen peas 300g
+
+* mayo 50g
+* black pepper
