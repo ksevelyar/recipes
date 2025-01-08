@@ -3,11 +3,11 @@
 * protein 20g
 * flour 20g
 * coco oil 30g
-* sweetener 10g
+* sweetener 15g
 * erythritol 40g
 * baking powder 4g
 * salt 0.4g
-* 2 eggs
+* 1 egg
 
 # Stage 1
 
