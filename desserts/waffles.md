@@ -1,15 +1,8 @@
-# Waffles
-* flour 60g
-* protein 30g
-* nuts 20g
-* egg whites 120g or 2 eggs
-* sweetener 10g
-* milk 100g
-
-# Stage 1
-* mix in blender
-* bake for 20min at 160C
-
-| **kcal** | **fats** | **carbs** | **protein** |
-|----------|----------|-----------|-------------|
-| **1050** | **29.2** | **96**    | **100**     |
+# [draft] Waffles
+* oat flour 50g
+* cornstarch 20g
+* whey protein 15g
+* casein protein 15g
+* 2 eggs
+* sweetener 15g
+* milk 50g

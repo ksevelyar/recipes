@@ -1,13 +1,12 @@
 # Hummus
-
 * chickpeas 200g
-* lemon 30g
+* lemon 100g
 * 1 garlic clove
 * olive oil 10g
-* cumin 4g
+* cumin 2g
 * salt 4g
 * sesame seeds 40g
-* cold water 120g
+* cold water 220g
 
 ## stage 1
 * замочить нут на ночь
