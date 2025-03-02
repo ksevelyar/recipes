@@ -2,7 +2,7 @@
 
 * grilled chicken breasts 400g
 * potato 400g
-* 6 eggs
+* 4 eggs
 * cucumber 300g
 * onion 100g
 * apple 100g

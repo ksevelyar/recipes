@@ -1,10 +1,11 @@
-* oats 30g
+# Overnight oats
+* oats 20g
 * cocoa 15g
-* casein 10g
-* peanut protein 10g
+* protein 20g
 * salt
+* chia seeds 5g
 
-* water 150g
+* water or coffee 100g
 * greek yogurt 2% 250g
 
 * banana 50g

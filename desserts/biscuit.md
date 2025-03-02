@@ -1,13 +1,13 @@
 * flour 70g
-* coco flour 30g
+* coco flour 10g
 * protein 20g
-* erythritol 25g
-* allulose 25g
+* erythritol 30g
+* allulose 30g
 * baking powder 5g
 * 3 eggs
 * salt 1g
-* vanilla extract
+* vanilla extract 5g
 
 ## Stage 1
-* bake 150 for 35m
+* bake 160 for 25m
 
