@@ -1,14 +1,13 @@
 # Falafel
 
-* dried chickpeas 300g
-* egg 60g
-* onion 1
-* garlic 1
-* cumin 15g
+* dried chickpeas 200g
+* onion 100
+* garlic 30
+* cumin 10g
 * baking powder 3g
 * salt 5g
-* oil 30g
-* sesame seeds 30g
+* oil 20g
+* green 100g
 
 ## Stage 1
 * soak chickpeas for 12h

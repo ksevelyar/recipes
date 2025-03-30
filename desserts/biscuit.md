@@ -1,8 +1,6 @@
 * flour 70g
 * coco flour 10g
-* protein 20g
-* erythritol 30g
-* allulose 30g
+* sweetener 30g
 * baking powder 5g
 * 3 eggs
 * salt 1g
