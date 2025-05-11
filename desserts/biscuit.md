@@ -1,8 +1,9 @@
-* flour 70g
+* flour 40g
 * coco flour 10g
+* protein 20g
 * sweetener 30g
 * baking powder 5g
-* 3 eggs
+* 4 eggs
 * salt 1g
 * vanilla extract 5g
 
