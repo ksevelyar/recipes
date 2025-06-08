@@ -14,5 +14,5 @@
 ## Stage 2
 * mix all components in blender
 * put the balls on the silicone mat
-* bake for 14 minutes at 200C
+* bake for 12 minutes at 200C
 * flip, bake another 4 min
