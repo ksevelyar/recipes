@@ -1,7 +1,7 @@
 # Overnight oats
-* oats 20g
-* cocoa 15g
-* protein 20g
+* oats 10g
+* cocoa 10g
+* protein 10g
 * salt
 * chia seeds 5g
 

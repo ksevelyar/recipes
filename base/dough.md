@@ -3,5 +3,4 @@
 * rye flour 10g
 * water 140g
 * instant dry yeast 4g
-* salt 2g
-* french herbs
+* salt 1g
