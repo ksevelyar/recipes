@@ -1,8 +1,10 @@
 # Fish balls
-* 60g rice
-* 20g ground corn flakes without sugar
-* 600g white fish
-* 4g salt
-* 60g egg
+* 50g rice
+* 100g breadcrumbs
+* 400 white fish
+* 100g onion
+* 5g salt
+* 3 eggs
 * 10g olive oil
+* 10g fresh parsley
 * black pepper
